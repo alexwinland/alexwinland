@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alex Winland 😁
+# Bem-vindo(a) ao perfil do Alex Winland 😁
 
  <div>
    <a href="https://github.com/alexwinland">
@@ -15,7 +15,7 @@
  
 <br>
  
-### Me siga nas redes abaixo!
+## Me siga nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/alex.winland" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
